@@ -9,13 +9,13 @@ jC = '\033[2;35m' #وردي
 jB = '\033[2;36m'#سمائي
 kY = '\033[1;34m' #ازرق فاتح
 Z =  '\033[1;31m' #احمر
-Mala = '-'
-print(ZX+Mala*50)           
+Zamo = '-'
+print(ZX+Zamo*50)           
 
 logo = pyfiglet.figlet_format('Spam-BoT')
 print(Z+logo)
-Mala = '-'
-print(ZX+Mala*50)           
+Zamo = '-'
+print(ZX+Zamo*50)           
 tok = input(kY+'  Token Bot  : ')
 ID = input(kY+' - ID Telegram : ')
 M = input(kY+' - Chataka Che Bet??  : ')
